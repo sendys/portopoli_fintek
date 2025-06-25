@@ -335,7 +335,7 @@ const steps = [
       'Verifikasi email Anda',
       'Pilih paket yang sesuai'
     ],
-    image: '/images/step-1.png'
+    image: '/images/step-1.svg'
   },
   {
     title: 'Atur Toko Anda',
@@ -345,7 +345,7 @@ const steps = [
       'Atur harga dan diskon',
       'Tambahkan staf dan atur hak akses'
     ],
-    image: '/images/step-2.png'
+    image: '/images/step-2.svg'
   },
   {
     title: 'Mulai Berjualan',
@@ -355,7 +355,7 @@ const steps = [
       'Kelola pesanan pelanggan',
       'Pantau laporan keuangan'
     ],
-    image: '/images/step-3.png'
+    image: '/images/step-3.svg'
   }
 ];
 
