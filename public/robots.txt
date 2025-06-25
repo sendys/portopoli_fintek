@@ -1,0 +1,16 @@
+# Allow all robots to crawl the website
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://fintek.id/sitemap.xml
+
+# Disallow crawling of admin and API routes
+Disallow: /admin/
+Disallow: /api/
+Disallow: /dashboard/
+Disallow: /login
+Disallow: /register
+
+# Crawl-delay parameter to limit the request rate
+Crawl-delay: 10
